@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161985676358",
+    "project_id": "nmedia-fcccf",
+    "storage_bucket": "nmedia-fcccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161985676358:android:dfaf79263d316f08ff3647",
+        "android_client_info": {
+          "package_name": "ru.netology.nmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3GKQE_Y2onAGACDoRMydYZ2vpgehjWmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
